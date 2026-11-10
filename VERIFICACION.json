@@ -1,0 +1,21 @@
+{
+  "applicationVersion": "4.1.1",
+  "build": "20261110-023721-719147",
+  "sourceCommit": "4bc45d9207481c04ce486a8db0b4f1c58aa73558",
+  "date": "2026-11-10",
+  "executableSha256": "28885fcda8eff674d35fe003c39fa8eba388b841811689a0dd8fe332719ac541",
+  "format": "onedir",
+  "upx": false,
+  "authenticodeStatus": "NotSigned",
+  "installationCheckPassed": true,
+  "userDatabaseOpened": false,
+  "externalServicesOpened": false,
+  "defender": {
+    "result": "no threats found",
+    "signatureVersion": "1.463.222.0",
+    "signatureUpdated": "2026-11-09T20:04:22.0000000-06:00",
+    "realTimeProtectionEnabled": true,
+    "scope": "complete fresh runtime folder"
+  },
+  "manualEdition": "4.1.0"
+}

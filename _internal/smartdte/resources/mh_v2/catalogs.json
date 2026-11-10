@@ -1,0 +1,1158 @@
+{
+  "districts": {
+    "0000": {
+      "name": "Otro (Para extranjeros)",
+      "municipality": "0000"
+    },
+    "0101": {
+      "name": "AHUACHAPÁN",
+      "municipality": "0114"
+    },
+    "0102": {
+      "name": "APANECA",
+      "municipality": "0114"
+    },
+    "0103": {
+      "name": "ATIQUIZAYA",
+      "municipality": "0113"
+    },
+    "0104": {
+      "name": "CONCEPCIÓN DE ATACO",
+      "municipality": "0114"
+    },
+    "0105": {
+      "name": "EL REFUGIO",
+      "municipality": "0113"
+    },
+    "0106": {
+      "name": "GUAYMANGO",
+      "municipality": "0115"
+    },
+    "0107": {
+      "name": "JUJUTLA",
+      "municipality": "0115"
+    },
+    "0108": {
+      "name": "SAN FRANCISCO MENÉNDEZ",
+      "municipality": "0115"
+    },
+    "0109": {
+      "name": "SAN LORENZO",
+      "municipality": "0113"
+    },
+    "0110": {
+      "name": "SAN PEDRO PUXTLA",
+      "municipality": "0115"
+    },
+    "0111": {
+      "name": "TACUBA",
+      "municipality": "0114"
+    },
+    "0112": {
+      "name": "TURÍN",
+      "municipality": "0113"
+    },
+    "0201": {
+      "name": "CANDELARIA DE LA FRONTERA",
+      "municipality": "0217"
+    },
+    "0202": {
+      "name": "COATEPEQUE",
+      "municipality": "0216"
+    },
+    "0203": {
+      "name": "CHALCHUAPA",
+      "municipality": "0217"
+    },
+    "0204": {
+      "name": "EL CONGO",
+      "municipality": "0216"
+    },
+    "0205": {
+      "name": "EL PORVENIR",
+      "municipality": "0217"
+    },
+    "0206": {
+      "name": "MASAHUAT",
+      "municipality": "0214"
+    },
+    "0207": {
+      "name": "METAPÁN",
+      "municipality": "0214"
+    },
+    "0208": {
+      "name": "SAN ANTONIO PAJONAL",
+      "municipality": "0217"
+    },
+    "0209": {
+      "name": "SAN SEBASTIÁN SALITRILLO",
+      "municipality": "0217"
+    },
+    "0210": {
+      "name": "SANTA ANA",
+      "municipality": "0215"
+    },
+    "0211": {
+      "name": "STA ROSA GUACHI",
+      "municipality": "0214"
+    },
+    "0212": {
+      "name": "STGO D LA FRONT",
+      "municipality": "0217"
+    },
+    "0213": {
+      "name": "TEXISTEPEQUE",
+      "municipality": "0214"
+    },
+    "0301": {
+      "name": "ACAJUTLA",
+      "municipality": "0320"
+    },
+    "0302": {
+      "name": "ARMENIA",
+      "municipality": "0319"
+    },
+    "0303": {
+      "name": "CALUCO",
+      "municipality": "0319"
+    },
+    "0304": {
+      "name": "CUISNAHUAT",
+      "municipality": "0319"
+    },
+    "0305": {
+      "name": "STA I ISHUATAN",
+      "municipality": "0319"
+    },
+    "0306": {
+      "name": "IZALCO",
+      "municipality": "0319"
+    },
+    "0307": {
+      "name": "JUAYÚA",
+      "municipality": "0317"
+    },
+    "0308": {
+      "name": "NAHUIZALCO",
+      "municipality": "0317"
+    },
+    "0309": {
+      "name": "NAHULINGO",
+      "municipality": "0318"
+    },
+    "0310": {
+      "name": "SALCOATITÁN",
+      "municipality": "0317"
+    },
+    "0311": {
+      "name": "SAN ANTONIO DEL MONTE",
+      "municipality": "0318"
+    },
+    "0312": {
+      "name": "SAN JULIÁN",
+      "municipality": "0319"
+    },
+    "0313": {
+      "name": "STA C MASAHUAT",
+      "municipality": "0317"
+    },
+    "0314": {
+      "name": "SANTO DOMINGO GUZMÁN",
+      "municipality": "0318"
+    },
+    "0315": {
+      "name": "SONSONATE",
+      "municipality": "0318"
+    },
+    "0316": {
+      "name": "SONZACATE",
+      "municipality": "0318"
+    },
+    "0401": {
+      "name": "AGUA CALIENTE",
+      "municipality": "0435"
+    },
+    "0402": {
+      "name": "ARCATAO",
+      "municipality": "0436"
+    },
+    "0403": {
+      "name": "AZACUALPA",
+      "municipality": "0436"
+    },
+    "0404": {
+      "name": "CITALÁ",
+      "municipality": "0434"
+    },
+    "0405": {
+      "name": "COMALAPA",
+      "municipality": "0436"
+    },
+    "0406": {
+      "name": "CONCEPCIÓN QUEZALTEPEQUE",
+      "municipality": "0436"
+    },
+    "0407": {
+      "name": "CHALATENANGO",
+      "municipality": "0436"
+    },
+    "0408": {
+      "name": "DULCE NOM MARÍA",
+      "municipality": "0435"
+    },
+    "0409": {
+      "name": "EL CARRIZAL",
+      "municipality": "0436"
+    },
+    "0410": {
+      "name": "EL PARAÍSO",
+      "municipality": "0435"
+    },
+    "0411": {
+      "name": "LA LAGUNA",
+      "municipality": "0436"
+    },
+    "0412": {
+      "name": "LA PALMA",
+      "municipality": "0434"
+    },
+    "0413": {
+      "name": "LA REINA",
+      "municipality": "0435"
+    },
+    "0414": {
+      "name": "LAS VUELTAS",
+      "municipality": "0436"
+    },
+    "0415": {
+      "name": "NOMBRE DE JESUS",
+      "municipality": "0436"
+    },
+    "0416": {
+      "name": "NVA CONCEPCIÓN",
+      "municipality": "0435"
+    },
+    "0417": {
+      "name": "NUEVA TRINIDAD",
+      "municipality": "0436"
+    },
+    "0418": {
+      "name": "OJOS DE AGUA",
+      "municipality": "0436"
+    },
+    "0419": {
+      "name": "POTONICO",
+      "municipality": "0436"
+    },
+    "0420": {
+      "name": "SAN ANT LA CRUZ",
+      "municipality": "0436"
+    },
+    "0421": {
+      "name": "SAN ANT RANCHOS",
+      "municipality": "0436"
+    },
+    "0422": {
+      "name": "SAN FERNANDO",
+      "municipality": "0435"
+    },
+    "0423": {
+      "name": "SAN FRANCISCO LEMPA",
+      "municipality": "0436"
+    },
+    "0424": {
+      "name": "SAN FRANCISCO MORAZÁN",
+      "municipality": "0435"
+    },
+    "0425": {
+      "name": "SAN IGNACIO",
+      "municipality": "0434"
+    },
+    "0426": {
+      "name": "SAN I LABRADOR",
+      "municipality": "0436"
+    },
+    "0427": {
+      "name": "SAN J CANCASQUE",
+      "municipality": "0436"
+    },
+    "0428": {
+      "name": "SAN JOSE FLORES",
+      "municipality": "0436"
+    },
+    "0429": {
+      "name": "SAN LUIS CARMEN",
+      "municipality": "0436"
+    },
+    "0430": {
+      "name": "SN MIG MERCEDES",
+      "municipality": "0436"
+    },
+    "0431": {
+      "name": "SAN RAFAEL",
+      "municipality": "0435"
+    },
+    "0432": {
+      "name": "SANTA RITA",
+      "municipality": "0435"
+    },
+    "0433": {
+      "name": "TEJUTLA",
+      "municipality": "0435"
+    },
+    "0501": {
+      "name": "ANTGO CUSCATLÁN",
+      "municipality": "0526"
+    },
+    "0502": {
+      "name": "CIUDAD ARCE",
+      "municipality": "0524"
+    },
+    "0503": {
+      "name": "COLON",
+      "municipality": "0525"
+    },
+    "0504": {
+      "name": "COMASAGUA",
+      "municipality": "0528"
+    },
+    "0505": {
+      "name": "CHILTIUPAN",
+      "municipality": "0527"
+    },
+    "0506": {
+      "name": "HUIZÚCAR",
+      "municipality": "0526"
+    },
+    "0507": {
+      "name": "JAYAQUE",
+      "municipality": "0525"
+    },
+    "0508": {
+      "name": "JICALAPA",
+      "municipality": "0527"
+    },
+    "0509": {
+      "name": "LA LIBERTAD",
+      "municipality": "0527"
+    },
+    "0510": {
+      "name": "NUEVO CUSCATLÁN",
+      "municipality": "0526"
+    },
+    "0511": {
+      "name": "SANTA TECLA",
+      "municipality": "0528"
+    },
+    "0512": {
+      "name": "QUEZALTEPEQUE",
+      "municipality": "0523"
+    },
+    "0513": {
+      "name": "SACACOYO",
+      "municipality": "0525"
+    },
+    "0514": {
+      "name": "SN J VILLANUEVA",
+      "municipality": "0526"
+    },
+    "0515": {
+      "name": "SAN JUAN OPICO",
+      "municipality": "0524"
+    },
+    "0516": {
+      "name": "SAN MATÍAS",
+      "municipality": "0523"
+    },
+    "0517": {
+      "name": "SAN P TACACHICO",
+      "municipality": "0523"
+    },
+    "0518": {
+      "name": "TAMANIQUE",
+      "municipality": "0527"
+    },
+    "0519": {
+      "name": "TALNIQUE",
+      "municipality": "0525"
+    },
+    "0520": {
+      "name": "TEOTEPEQUE",
+      "municipality": "0527"
+    },
+    "0521": {
+      "name": "TEPECOYO",
+      "municipality": "0525"
+    },
+    "0522": {
+      "name": "ZARAGOZA",
+      "municipality": "0526"
+    },
+    "0601": {
+      "name": "AGUILARES",
+      "municipality": "0620"
+    },
+    "0602": {
+      "name": "APOPA",
+      "municipality": "0621"
+    },
+    "0603": {
+      "name": "AYUTUXTEPEQUE",
+      "municipality": "0623"
+    },
+    "0604": {
+      "name": "CUSCATANCINGO",
+      "municipality": "0623"
+    },
+    "0605": {
+      "name": "EL PAISNAL",
+      "municipality": "0620"
+    },
+    "0606": {
+      "name": "GUAZAPA",
+      "municipality": "0620"
+    },
+    "0607": {
+      "name": "ILOPANGO",
+      "municipality": "0622"
+    },
+    "0608": {
+      "name": "MEJICANOS",
+      "municipality": "0623"
+    },
+    "0609": {
+      "name": "NEJAPA",
+      "municipality": "0621"
+    },
+    "0610": {
+      "name": "PANCHIMALCO",
+      "municipality": "0624"
+    },
+    "0611": {
+      "name": "ROSARIO DE MORA",
+      "municipality": "0624"
+    },
+    "0612": {
+      "name": "SAN MARCOS",
+      "municipality": "0624"
+    },
+    "0613": {
+      "name": "SAN MARTIN",
+      "municipality": "0622"
+    },
+    "0614": {
+      "name": "SAN SALVADOR",
+      "municipality": "0623"
+    },
+    "0615": {
+      "name": "STG TEXACUANGOS",
+      "municipality": "0624"
+    },
+    "0616": {
+      "name": "SANTO TOMAS",
+      "municipality": "0624"
+    },
+    "0617": {
+      "name": "SOYAPANGO",
+      "municipality": "0622"
+    },
+    "0618": {
+      "name": "TONACATEPEQUE",
+      "municipality": "0622"
+    },
+    "0619": {
+      "name": "CIUDAD DELGADO",
+      "municipality": "0623"
+    },
+    "0701": {
+      "name": "CANDELARIA",
+      "municipality": "0718"
+    },
+    "0702": {
+      "name": "COJUTEPEQUE",
+      "municipality": "0718"
+    },
+    "0703": {
+      "name": "EL CARMEN",
+      "municipality": "0718"
+    },
+    "0704": {
+      "name": "EL ROSARIO",
+      "municipality": "0718"
+    },
+    "0705": {
+      "name": "MONTE SAN JUAN",
+      "municipality": "0718"
+    },
+    "0706": {
+      "name": "ORAT CONCEPCIÓN",
+      "municipality": "0717"
+    },
+    "0707": {
+      "name": "SAN B PERULAPIA",
+      "municipality": "0717"
+    },
+    "0708": {
+      "name": "SAN CRISTÓBAL",
+      "municipality": "0718"
+    },
+    "0709": {
+      "name": "SAN J GUAYABAL",
+      "municipality": "0717"
+    },
+    "0710": {
+      "name": "SAN P PERULAPÁN",
+      "municipality": "0717"
+    },
+    "0711": {
+      "name": "SAN RAF CEDROS",
+      "municipality": "0718"
+    },
+    "0712": {
+      "name": "SAN RAMON",
+      "municipality": "0718"
+    },
+    "0713": {
+      "name": "STA C ANALQUITO",
+      "municipality": "0718"
+    },
+    "0714": {
+      "name": "STA C MICHAPA",
+      "municipality": "0718"
+    },
+    "0715": {
+      "name": "SUCHITOTO",
+      "municipality": "0717"
+    },
+    "0716": {
+      "name": "TENANCINGO",
+      "municipality": "0718"
+    },
+    "0801": {
+      "name": "CUYULTITÁN",
+      "municipality": "0823"
+    },
+    "0802": {
+      "name": "EL ROSARIO",
+      "municipality": "0824"
+    },
+    "0803": {
+      "name": "JERUSALÉN",
+      "municipality": "0824"
+    },
+    "0804": {
+      "name": "MERCED LA CEIBA",
+      "municipality": "0824"
+    },
+    "0805": {
+      "name": "OLOCUILTA",
+      "municipality": "0823"
+    },
+    "0806": {
+      "name": "PARAÍSO OSORIO",
+      "municipality": "0824"
+    },
+    "0807": {
+      "name": "SN ANT MASAHUAT",
+      "municipality": "0824"
+    },
+    "0808": {
+      "name": "SAN EMIGDIO",
+      "municipality": "0824"
+    },
+    "0809": {
+      "name": "SN FCO CHINAMEC",
+      "municipality": "0823"
+    },
+    "0810": {
+      "name": "SAN J NONUALCO",
+      "municipality": "0825"
+    },
+    "0811": {
+      "name": "SAN JUAN TALPA",
+      "municipality": "0823"
+    },
+    "0812": {
+      "name": "SAN JUAN TEPEZONTES",
+      "municipality": "0824"
+    },
+    "0813": {
+      "name": "SAN LUIS TALPA",
+      "municipality": "0823"
+    },
+    "0814": {
+      "name": "SAN MIGUEL TEPEZONTES",
+      "municipality": "0824"
+    },
+    "0815": {
+      "name": "SAN PEDRO MASAHUAT",
+      "municipality": "0823"
+    },
+    "0816": {
+      "name": "SAN PEDRO NONUALCO",
+      "municipality": "0824"
+    },
+    "0817": {
+      "name": "SAN R OBRAJUELO",
+      "municipality": "0825"
+    },
+    "0818": {
+      "name": "STA MA OSTUMA",
+      "municipality": "0824"
+    },
+    "0819": {
+      "name": "STGO NONUALCO",
+      "municipality": "0824"
+    },
+    "0820": {
+      "name": "TAPALHUACA",
+      "municipality": "0823"
+    },
+    "0821": {
+      "name": "ZACATECOLUCA",
+      "municipality": "0825"
+    },
+    "0822": {
+      "name": "SN LUIS LA HERR",
+      "municipality": "0824"
+    },
+    "0901": {
+      "name": "CINQUERA",
+      "municipality": "0910"
+    },
+    "0902": {
+      "name": "GUACOTECTI",
+      "municipality": "0911"
+    },
+    "0903": {
+      "name": "ILOBASCO",
+      "municipality": "0910"
+    },
+    "0904": {
+      "name": "JUTIAPA",
+      "municipality": "0910"
+    },
+    "0905": {
+      "name": "SAN ISIDRO",
+      "municipality": "0911"
+    },
+    "0906": {
+      "name": "SENSUNTEPEQUE",
+      "municipality": "0911"
+    },
+    "0907": {
+      "name": "TEJUTEPEQUE",
+      "municipality": "0910"
+    },
+    "0908": {
+      "name": "VICTORIA",
+      "municipality": "0911"
+    },
+    "0909": {
+      "name": "DOLORES",
+      "municipality": "0911"
+    },
+    "1001": {
+      "name": "APASTEPEQUE",
+      "municipality": "1014"
+    },
+    "1002": {
+      "name": "GUADALUPE",
+      "municipality": "1015"
+    },
+    "1003": {
+      "name": "SAN CAY ISTEPEQ",
+      "municipality": "1015"
+    },
+    "1004": {
+      "name": "SANTA CLARA",
+      "municipality": "1014"
+    },
+    "1005": {
+      "name": "SANTO DOMINGO",
+      "municipality": "1014"
+    },
+    "1006": {
+      "name": "SN EST CATARINA",
+      "municipality": "1014"
+    },
+    "1007": {
+      "name": "SAN ILDEFONSO",
+      "municipality": "1014"
+    },
+    "1008": {
+      "name": "SAN LORENZO",
+      "municipality": "1014"
+    },
+    "1009": {
+      "name": "SAN SEBASTIÁN",
+      "municipality": "1014"
+    },
+    "1010": {
+      "name": "SAN VICENTE",
+      "municipality": "1015"
+    },
+    "1011": {
+      "name": "TECOLUCA",
+      "municipality": "1015"
+    },
+    "1012": {
+      "name": "TEPETITÁN",
+      "municipality": "1015"
+    },
+    "1013": {
+      "name": "VERAPAZ",
+      "municipality": "1015"
+    },
+    "1101": {
+      "name": "ALEGRÍA",
+      "municipality": "1124"
+    },
+    "1102": {
+      "name": "BERLÍN",
+      "municipality": "1124"
+    },
+    "1103": {
+      "name": "CALIFORNIA",
+      "municipality": "1125"
+    },
+    "1104": {
+      "name": "CONCEP BATRES",
+      "municipality": "1125"
+    },
+    "1105": {
+      "name": "EL TRIUNFO",
+      "municipality": "1124"
+    },
+    "1106": {
+      "name": "EREGUAYQUÍN",
+      "municipality": "1125"
+    },
+    "1107": {
+      "name": "ESTANZUELAS",
+      "municipality": "1124"
+    },
+    "1108": {
+      "name": "JIQUILISCO",
+      "municipality": "1126"
+    },
+    "1109": {
+      "name": "JUCUAPA",
+      "municipality": "1124"
+    },
+    "1110": {
+      "name": "JUCUARÁN",
+      "municipality": "1125"
+    },
+    "1111": {
+      "name": "MERCEDES UMAÑA",
+      "municipality": "1124"
+    },
+    "1112": {
+      "name": "NUEVA GRANADA",
+      "municipality": "1124"
+    },
+    "1113": {
+      "name": "OZATLÁN",
+      "municipality": "1125"
+    },
+    "1114": {
+      "name": "PTO EL TRIUNFO",
+      "municipality": "1126"
+    },
+    "1115": {
+      "name": "SAN AGUSTÍN",
+      "municipality": "1126"
+    },
+    "1116": {
+      "name": "SN BUENAVENTURA",
+      "municipality": "1124"
+    },
+    "1117": {
+      "name": "SAN DIONISIO",
+      "municipality": "1125"
+    },
+    "1118": {
+      "name": "SANTA ELENA",
+      "municipality": "1125"
+    },
+    "1119": {
+      "name": "SAN FCO JAVIER",
+      "municipality": "1126"
+    },
+    "1120": {
+      "name": "SANTA MARÍA",
+      "municipality": "1125"
+    },
+    "1121": {
+      "name": "STGO DE MARÍA",
+      "municipality": "1124"
+    },
+    "1122": {
+      "name": "TECAPÁN",
+      "municipality": "1125"
+    },
+    "1123": {
+      "name": "USULUTÁN",
+      "municipality": "1125"
+    },
+    "1201": {
+      "name": "CAROLINA",
+      "municipality": "1221"
+    },
+    "1202": {
+      "name": "CIUDAD BARRIOS",
+      "municipality": "1221"
+    },
+    "1203": {
+      "name": "COMACARÁN",
+      "municipality": "1222"
+    },
+    "1204": {
+      "name": "CHAPELTIQUE",
+      "municipality": "1221"
+    },
+    "1205": {
+      "name": "CHINAMECA",
+      "municipality": "1223"
+    },
+    "1206": {
+      "name": "CHIRILAGUA",
+      "municipality": "1222"
+    },
+    "1207": {
+      "name": "EL TRANSITO",
+      "municipality": "1223"
+    },
+    "1208": {
+      "name": "LOLOTIQUE",
+      "municipality": "1223"
+    },
+    "1209": {
+      "name": "MONCAGUA",
+      "municipality": "1222"
+    },
+    "1210": {
+      "name": "NUEVA GUADALUPE",
+      "municipality": "1223"
+    },
+    "1211": {
+      "name": "NVO EDÉN S JUAN",
+      "municipality": "1221"
+    },
+    "1212": {
+      "name": "QUELEPA",
+      "municipality": "1222"
+    },
+    "1213": {
+      "name": "SAN ANT D MOSCO",
+      "municipality": "1221"
+    },
+    "1214": {
+      "name": "SAN GERARDO",
+      "municipality": "1221"
+    },
+    "1215": {
+      "name": "SAN JORGE",
+      "municipality": "1223"
+    },
+    "1216": {
+      "name": "SAN LUIS REINA",
+      "municipality": "1221"
+    },
+    "1217": {
+      "name": "SAN MIGUEL",
+      "municipality": "1222"
+    },
+    "1218": {
+      "name": "SAN RAF ORIENTE",
+      "municipality": "1223"
+    },
+    "1219": {
+      "name": "SESORI",
+      "municipality": "1221"
+    },
+    "1220": {
+      "name": "ULUAZAPA",
+      "municipality": "1222"
+    },
+    "1301": {
+      "name": "ARAMBALA",
+      "municipality": "1327"
+    },
+    "1302": {
+      "name": "CACAOPERA",
+      "municipality": "1327"
+    },
+    "1303": {
+      "name": "CORINTO",
+      "municipality": "1327"
+    },
+    "1304": {
+      "name": "CHILANGA",
+      "municipality": "1328"
+    },
+    "1305": {
+      "name": "DELIC DE CONCEP",
+      "municipality": "1328"
+    },
+    "1306": {
+      "name": "EL DIVISADERO",
+      "municipality": "1328"
+    },
+    "1307": {
+      "name": "EL ROSARIO",
+      "municipality": "1327"
+    },
+    "1308": {
+      "name": "GUALOCOCTI",
+      "municipality": "1328"
+    },
+    "1309": {
+      "name": "GUATAJIAGUA",
+      "municipality": "1328"
+    },
+    "1310": {
+      "name": "JOATECA",
+      "municipality": "1327"
+    },
+    "1311": {
+      "name": "JOCOAITIQUE",
+      "municipality": "1327"
+    },
+    "1312": {
+      "name": "JOCORO",
+      "municipality": "1328"
+    },
+    "1313": {
+      "name": "LOLOTIQUILLO",
+      "municipality": "1328"
+    },
+    "1314": {
+      "name": "MEANGUERA",
+      "municipality": "1328"
+    },
+    "1315": {
+      "name": "OSICALA",
+      "municipality": "1328"
+    },
+    "1316": {
+      "name": "PERQUÍN",
+      "municipality": "1327"
+    },
+    "1317": {
+      "name": "SAN CARLOS",
+      "municipality": "1328"
+    },
+    "1318": {
+      "name": "SAN FERNANDO",
+      "municipality": "1327"
+    },
+    "1319": {
+      "name": "SAN FCO GOTERA",
+      "municipality": "1328"
+    },
+    "1320": {
+      "name": "SAN ISIDRO",
+      "municipality": "1327"
+    },
+    "1321": {
+      "name": "SAN SIMÓN",
+      "municipality": "1328"
+    },
+    "1322": {
+      "name": "SENSEMBRA",
+      "municipality": "1328"
+    },
+    "1323": {
+      "name": "SOCIEDAD",
+      "municipality": "1328"
+    },
+    "1324": {
+      "name": "TOROLA",
+      "municipality": "1327"
+    },
+    "1325": {
+      "name": "YAMABAL",
+      "municipality": "1328"
+    },
+    "1326": {
+      "name": "YOLOAIQUÍN",
+      "municipality": "1328"
+    },
+    "1401": {
+      "name": "ANAMOROS",
+      "municipality": "1419"
+    },
+    "1402": {
+      "name": "BOLÍVAR",
+      "municipality": "1419"
+    },
+    "1403": {
+      "name": "CONCEP DE OTE",
+      "municipality": "1419"
+    },
+    "1404": {
+      "name": "CONCHAGUA",
+      "municipality": "1420"
+    },
+    "1405": {
+      "name": "EL CARMEN",
+      "municipality": "1420"
+    },
+    "1406": {
+      "name": "EL SAUCE",
+      "municipality": "1419"
+    },
+    "1407": {
+      "name": "INTIPUCÁ",
+      "municipality": "1420"
+    },
+    "1408": {
+      "name": "LA UNIÓN",
+      "municipality": "1420"
+    },
+    "1409": {
+      "name": "LISLIQUE",
+      "municipality": "1419"
+    },
+    "1410": {
+      "name": "MEANG DEL GOLFO",
+      "municipality": "1420"
+    },
+    "1411": {
+      "name": "NUEVA ESPARTA",
+      "municipality": "1419"
+    },
+    "1412": {
+      "name": "PASAQUINA",
+      "municipality": "1419"
+    },
+    "1413": {
+      "name": "POLORÓS",
+      "municipality": "1419"
+    },
+    "1414": {
+      "name": "SAN ALEJO",
+      "municipality": "1420"
+    },
+    "1415": {
+      "name": "SAN JOSE",
+      "municipality": "1419"
+    },
+    "1416": {
+      "name": "SANTA ROSA LIMA",
+      "municipality": "1419"
+    },
+    "1417": {
+      "name": "YAYANTIQUE",
+      "municipality": "1420"
+    },
+    "1418": {
+      "name": "YUCUAIQUÍN",
+      "municipality": "1420"
+    }
+  },
+  "export_regimes": {
+    "1000.000": "Exportación Definitiva, Régimen Común",
+    "1040.000": "Exportación Definitiva Sustitución de Mercancías, Régimen Común",
+    "1041.020": "Exportación Definitiva Proveniente de Franquicia Provisional, exento de DAI",
+    "1041.021": "Exportación Definitiva Proveniente de Franquicia Provisional, exento de DAI e IVA",
+    "1048.025": "Exportación Definitiva Proveniente de Franquicia Definitiva, Maquinaria y Equipo LZF, DPA",
+    "1048.031": "Exportación Definitiva Proveniente de Franquicia Definitiva, Distribución Internacional",
+    "1048.032": "Exportación Definitiva Proveniente de Franquicia Definitiva, Operaciones Internacionales de Logística",
+    "1048.033": "Exportación Definitiva Proveniente de Franquicia Definitiva, Centro Internacional de llamadas (Call Center)",
+    "1048.034": "Exportación Definitiva Proveniente de Franquicia Definitiva, Tecnologías de Información LSI",
+    "1048.035": "Exportación Definitiva Proveniente de Franquicia Definitiva, Investigación y Desarrollo LSI",
+    "1048.036": "Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación y Mantenimiento de Embarcaciones Marítimas LSI",
+    "1048.037": "Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación y Mantenimiento de Aeronaves LSI",
+    "1048.038": "Exportación Definitiva Proveniente de Franquicia Definitiva, Procesos Empresariales LSI",
+    "1048.039": "Exportación Definitiva Proveniente de Franquicia Definitiva, Servicios Médico-Hospitalarios LSI",
+    "1048.040": "Exportación Definitiva Proveniente de Franquicia Definitiva, Servicios Financieros Internacionales LSI",
+    "1048.043": "Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación y Mantenimiento de Contenedores LSI",
+    "1048.044": "Exportación Definitiva Proveniente de Franquicia Definitiva, Reparación de Equipos Tecnológicos LSI",
+    "1048.054": "Exportación Definitiva Proveniente de Franquicia Definitiva, Atención Ancianos y Convalecientes LSI",
+    "1048.055": "Exportación Definitiva Proveniente de Franquicia Definitiva, Telemedicina LSI",
+    "1048.056": "Exportación Definitiva Proveniente de Franquicia Definitiva, Cinematografía LSI",
+    "1052.000": "Exportación Definitiva de DPA con origen en Compras Locales, Régimen Común",
+    "1054.000": "Exportación Definitiva de Zona Franca con origen en Compras Locales, Régimen Común",
+    "1100.000": "Exportación Definitiva de Envíos de Socorro, Régimen Común",
+    "1200.000": "Exportación Definitiva de Envíos Postales, Régimen Común",
+    "1300.000": "Exportación Definitiva Envíos que requieren despacho urgente, Régimen Común",
+    "1400.000": "Exportación Definitiva Courier, Régimen Común",
+    "1400.011": "Exportación Definitiva Courier, Muestras Sin Valor Comercial",
+    "1400.012": "Exportación Definitiva Courier, Material Publicitario",
+    "1400.017": "Exportación Definitiva Courier, Declaración de Documentos",
+    "1500.000": "Exportación Definitiva Menaje de casa, Régimen Común",
+    "2100.000": "Exportación Temporal para Perfeccionamiento Pasivo, Régimen Común",
+    "2100.065": "Exportación Temporal para Perfeccionamiento Pasivo, De Mercado Nacional a ZF o DPA",
+    "2200.000": "Exportación Temporal con Reimportación en el mismo estado, Régimen Común",
+    "2200.065": "Exportación Temporal con Reimportación en el mismo estado, De Mercado Nacional a ZF o DPA",
+    "2400.000": "Traslados Definitivos",
+    "3050.000": "Reexportación Proveniente de Importación Temporal, Régimen Común",
+    "3051.000": "Reexportación Proveniente de Tiendas Libres, Régimen Común",
+    "3052.000": "Reexportación Proveniente de Admisión Temporal para Perfeccionamiento Activo, Régimen Común",
+    "3053.000": "Reexportación Proveniente de Admisión Temporal, Régimen Común",
+    "3054.000": "Reexportación Proveniente de Régimen de Zona Franca, Régimen Común",
+    "3055.000": "Reexportación Proveniente de Admisión Temporal para Perfeccionamiento Activo con Garantía, Régimen Común",
+    "3056.000": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Régimen Común",
+    "3056.047": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Remisión a Departamento de Subastas",
+    "3056.057": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Remisión entre Usuarios Directos del Mismo Parque de Servicios",
+    "3056.058": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Remisión entre Usuarios Directos de Diferente Parque de Servicios",
+    "3056.072": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Decreto 738 Eléctricos e Híbridos",
+    "3056.081": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, Remisión entre Usuarios Directos LSI",
+    "3056.084": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, De una LSI para un DPA",
+    "3056.085": "Reexportación Proveniente de Admisión Temporal Distribución Internacional Parque de Servicios, De una LSI para una ZF",
+    "3057.000": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Régimen Común",
+    "3057.047": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Remisión a Departamento de Subastas",
+    "3057.057": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Remisión entre Usuarios Directos del Mismo Parque de Servicios",
+    "3057.058": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Remisión entre Usuarios Directos de Diferente Parque de Servicios",
+    "3057.081": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, Remisión entre Usuarios Directos LSI",
+    "3057.084": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, De una LSI para un DPA",
+    "3057.085": "Reexportación Proveniente de Admisión Temporal Operaciones Internacional de Logística Parque de Servicios, De una LSI para una ZF",
+    "3058.033": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Centro Internacional de llamadas (Call Center)",
+    "3058.034": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Tecnologías de Información LSI",
+    "3058.035": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Investigación y Desarrollo LSI",
+    "3058.036": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación y Mantenimiento de Embarcaciones Marítimas LSI",
+    "3058.037": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación y Mantenimiento de Aeronaves LSI",
+    "3058.038": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Procesos Empresariales LSI",
+    "3058.039": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Servicios Médico-Hospitalarios LSI",
+    "3058.040": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Servicios Financieros Internacionales LSI",
+    "3058.043": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación y Mantenimiento de Contenedores LSI",
+    "3058.044": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Reparación de Equipos Tecnológicos LSI",
+    "3058.054": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Atención Ancianos y Convalecientes LSI",
+    "3058.055": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Telemedicina LSI",
+    "3058.056": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Cinematografía LSI",
+    "3058.082": "Reexportación Proveniente de Admisión Temporal Centro Servicio LSI, Remisión entre Centros de Servicios LSI",
+    "3059.000": "Reexportación Proveniente de Admisión Temporal Reparación de Equipo Tecnológico Parque de Servicios, Régimen Común",
+    "3059.033": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Centro Internacional de llamadas (Call Center)",
+    "3059.034": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Tecnologías de Información LSI",
+    "3059.035": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Investigación y Desarrollo LSI",
+    "3059.038": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Procesos Empresariales LSI",
+    "3059.039": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Servicios Médico-Hospitalarios LSI",
+    "3059.040": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Servicios Financieros Internacionales LSI",
+    "3059.044": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Reparación de Equipos Tecnológicos LSI",
+    "3059.047": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Remisión a Departamento de Subastas",
+    "3059.054": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Atención Ancianos y Convalecientes LSI",
+    "3059.055": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Telemedicina LS",
+    "3059.056": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Cinematografía LSI",
+    "3059.057": "Reexportación Proveniente de Admisión Temporal Reparación de Equipo Tecnológico Parque de Servicios, Remisión entre Usuarios Directos del Mismo Parque de Servicios",
+    "3059.058": "Reexportación Proveniente de Admisión Temporal Reparación de Equipo Tecnológico Parque de Servicios, Remisión entre Usuarios Directos de Diferente Parque de Servicios",
+    "3059.081": "Reexportación Proveniente de Servicios Internacionales en Parques de Servicios, Remisión entre Usuarios Directos",
+    "3070.000": "Reexportación Proveniente de Depósito, Régimen Común",
+    "3070.047": "Reexportación Proveniente de Depósito, Remisión a Departamento de Subastas",
+    "3070.072": "Reexportación Proveniente de Depósito, Decreto 738 Eléctricos e Híbridos",
+    "3071.000": "Reexp. Prov. de Deposito.",
+    "0000.000": "Tránsito Aduanero"
+  },
+  "export_regime_types": {
+    "EX-1": "Exportación Definitiva",
+    "EX-2": "Exportación Temporal",
+    "EX-3": "Reexportación",
+    "TA-1": "Tránsito Aduanero"
+  },
+  "special_operations": {
+    "02": "Factura de venta simplificada",
+    "97": "Comprobantes de Control Interno"
+  }
+}

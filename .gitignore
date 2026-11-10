@@ -1,0 +1,58 @@
+# Seguir únicamente los archivos públicos de esta distribución.
+# Cualquier archivo nuevo de cliente colocado en la raíz queda fuera de Git.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/Manual-smartDTE-Windows.pdf
+!/smartDTE.exe
+!/Diagnosticar.cmd
+!/SHA256SUMS.txt
+!/VERIFICACION.json
+!/_internal/
+
+# Datos de cualquier instalación de trabajo, incluso dentro de smartDTE/.
+Documentos/
+Descargas/
+Respaldos/
+respaldos/
+backups/
+.local/
+.venv/
+build/
+config.conf
+.env
+.env.*
+
+# Licencias de clientes (*.crt), certificados y claves colocados en la raíz.
+# No excluir globalmente PEM: _internal/certifi/cacert.pem es un recurso público.
+/*.crt
+/*.lic
+/*.key
+/*.pem
+/*.pfx
+/*.p12
+/*.keystore
+/CREDENCIALES*.txt
+/credenciales*.json
+/credentials*.json
+
+# Bases SQLite y archivos auxiliares de sus transacciones.
+*.db
+*.db-*
+*.db.*
+*.sqlite
+*.sqlite-*
+*.sqlite.*
+*.sqlite3
+*.sqlite3-*
+*.sqlite3.*
+*.bak
+*.log
+
+# Caché y archivos de Windows. .pyd, .dll y .exe sí se distribuyen.
+__pycache__/
+*.pyc
+*.pyo
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,89 @@
+{
+  "normative_version": "2.0",
+  "catalog_version": "1.0-2026-05",
+  "source": "MH: Docs Sistema de Transmisión V 20 (paquete aportado)",
+  "files": [
+    {
+      "path": "schemas/v1/fe-eges-v1.json",
+      "source": "v1/fe-eges-v1.json",
+      "sha256": "fcf1a503a0d97d3dee85f70a0481d920e4861f3836d0e61b5bd8faadeafbfd97"
+    },
+    {
+      "path": "schemas/v1/fe-eop-v1.json",
+      "source": "v1/fe-eop-v1.json",
+      "sha256": "1b30c48e227378b14ad422b19de728f55bd97450929bc04d76a601413b04cdb5"
+    },
+    {
+      "path": "schemas/v1/fe-eret-v1.json",
+      "source": "v1/fe-eret-v1.json",
+      "sha256": "4e8a20c2231660ac2065885f66bbb436b71f2544726acd0932081661f8ab7ac6"
+    },
+    {
+      "path": "schemas/v2/fe-cd-v2.json",
+      "source": "v2/fe-cd-v2.json",
+      "sha256": "619e2a32d7059b85b06a2330ffe1fccc18801a701475a2dd23d7820060a27f98"
+    },
+    {
+      "path": "schemas/v2/fe-cl-v2.json",
+      "source": "v2/fe-cl-v2.json",
+      "sha256": "3921184454aadbd028059ad04fef5a3ad88f1a47c98ca8a275e30f55f66ec2e2"
+    },
+    {
+      "path": "schemas/v2/fe-cr-v2.json",
+      "source": "v2/fe-cr-v2.json",
+      "sha256": "898294a727b5d39b2f05904ddd1101f44b420fe7c4aa9745279d1dc924d9227f"
+    },
+    {
+      "path": "schemas/v2/fe-dcl-v2.json",
+      "source": "v2/fe-dcl-v2.json",
+      "sha256": "9d28e98946a41036ca2f54402c880691367dc3d1764dd7d54a7ae8b6c1b99ce6"
+    },
+    {
+      "path": "schemas/v2/fe-f-v2.json",
+      "source": "v2/fe-f-v2.json",
+      "sha256": "157868d07d8c2bd279db3bcbdd1046b3c54114bbbf6d865878b76fd9cbfdea9c"
+    },
+    {
+      "path": "schemas/v2/fe-fse-v2.json",
+      "source": "v2/fe-fse-v2.json",
+      "sha256": "0d4a9edc63689f546b43bfaf1647af6953affe6ee59ea726999eb163de9fdf78"
+    },
+    {
+      "path": "schemas/v3/fe-fex-v3.json",
+      "source": "v3/fe-fex-v3.json",
+      "sha256": "0ea48032ca19e284874d9ed3220f9227407c50f3696791c1940f983d0582a00a"
+    },
+    {
+      "path": "schemas/v3/invalidacion-schema-v3.json",
+      "source": "v3/invalidacion-schema-v3.json",
+      "sha256": "26c58553d7c4eb07b51b3dbe1e8daa20343fb29b4ea44aca7553e1371d1ce811"
+    },
+    {
+      "path": "schemas/v4/contingencia-schema-v4.json",
+      "source": "v4/contingencia-schema-v4.json",
+      "sha256": "6cf6ac1fb9f3ce2e45867788c100360aed05fadee26e21c1de5787c594dfd917"
+    },
+    {
+      "path": "schemas/v4/fe-ccf-v4.json",
+      "source": "v4/fe-ccf-v4.json",
+      "sha256": "47602987a400de757413cf56ebbc95a42efe73f2a3850b9f200cfb8a8fe20496"
+    },
+    {
+      "path": "schemas/v4/fe-nc-v4.json",
+      "source": "v4/fe-nc-v4.json",
+      "sha256": "180635a2f62eeae0a883758ac1e26425c313555ff4408f2637866cc44eacae38"
+    },
+    {
+      "path": "schemas/v4/fe-nd-v4.json",
+      "source": "v4/fe-nd-v4.json",
+      "sha256": "56d7b9b23c649472263e155ce389c953a267889cd623ee9cfc79d07722b82e04",
+      "original_sha256": "6ea7679efeabff294bfca6e19cc7249899627c075fdc84e750b5286cb144b25f",
+      "correction": "2026-09-07: errata resuelta; claves vacías sustituidas por tributos en propiedades y required de detalle/resumen, y descripción del resumen completada."
+    },
+    {
+      "path": "schemas/v4/fe-nr-v4.json",
+      "source": "v4/fe-nr-v4.json",
+      "sha256": "fe626d6c124a82bfcf25b3031e9b9634ca80ed9f2f7a339b606c2f4290842d20"
+    }
+  ]
+}
