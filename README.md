@@ -2,7 +2,7 @@
 
 Facturación electrónica de El Salvador desde una PC: emisión y consulta de DTE, contactos, inventario, impresión, correo, compras, declaraciones y anexos.
 
-**Versión de la aplicación: 4.1.1 · Windows de 64 bits**
+**Versión de la aplicación: 4.1.2 · Windows de 64 bits**
 
 [**Descargar la carpeta completa**](https://github.com/miliky/smartDTE_windows/archive/refs/heads/main.zip) · [**Manual ilustrado de instalación, configuración y uso**](Manual-smartDTE-Windows.pdf)
 
@@ -37,11 +37,20 @@ Descargar o actualizar los archivos del programa no requiere publicar su configu
 
 Los permisos de cada tipo de DTE controlan su emisión. **AdminDocDtes**, habilitado en usuario y licencia, permite la administración documental y los reportes correspondientes. El correo por Outlook requiere una instalación compatible con automatización COM.
 
-La versión **4.1.1** ajusta el desplazamiento al abrir otro DTE desde Documentos y la altura de las tablas de notas, para mantener accesibles los controles inferiores.
+La versión **4.1.2** añade **Descargar todos** en Adjuntos del correo para descargar todos los adjuntos de la carpeta elegida sin filtrar por fechas. Conserva el filtro **Por fechas** y las reglas de importación existentes.
+
+## Adjuntos del correo
+
+1. Abra **Adjuntos del correo** y revise el nombre de la carpeta de Outlook. Si queda vacío se utiliza la bandeja de entrada predeterminada.
+2. Elija **Por fechas** para utilizar Desde y Hasta, ambos incluidos, o **Descargar todos** para revisar todos los correos de esa carpeta, incluidos los históricos.
+3. Pulse **Descargar e importar**. En el modo completo los calendarios y atajos de fecha quedan deshabilitados; al volver a Por fechas se conserva el rango capturado.
+4. Revise los archivos y **resultado.txt** en la carpeta local de descarga. Se conservan los adjuntos de todas las empresas; la importación aplica los permisos y las reglas de la empresa activa.
+
+La elección se realiza para esa operación. Cancelar no inicia una descarga ni cambia las preferencias guardadas.
 
 ## Manual y comprobación
 
-El [manual ilustrado](Manual-smartDTE-Windows.pdf) conserva su edición **4.1.0**; sus instrucciones de instalación, configuración y funciones siguen aplicando a **4.1.1**. Los ajustes de desplazamiento de 4.1.1 no cambian los pasos de trabajo descritos.
+El [manual ilustrado](Manual-smartDTE-Windows.pdf) conserva su edición **4.1.0**; sus instrucciones de instalación, configuración y funciones siguen aplicando a **4.1.2**. La nueva elección Descargar todos se explica en el apartado Adjuntos del correo de esta página y en la ayuda local actualizada.
 
 Desde PowerShell, en la carpeta de la aplicación:
 
@@ -51,7 +60,7 @@ Desde PowerShell, en la carpeta de la aplicación:
 
 Esta comprobación revisa dependencias y recursos sin abrir la base del usuario. **Diagnosticar.cmd** conserva el registro de un error de inicio en `%TEMP%\smartDTE-diagnostico.log`; revise su contenido antes de compartirlo.
 
-La compilación del **10 de noviembre de 2026** superó esta comprobación y el análisis de la carpeta completa con Microsoft Defender, sin amenazas detectadas con las firmas utilizadas. Los datos de esa verificación y la huella del EXE están en [VERIFICACION.json](VERIFICACION.json).
+Los datos de la comprobación de esta entrega y la huella del EXE se registran en [VERIFICACION.json](VERIFICACION.json).
 
 Las huellas de los archivos distribuidos se encuentran en **SHA256SUMS.txt**. Si Windows bloquea un archivo, comunique al soporte la detección y la huella del archivo para su revisión.
 
