@@ -1,23 +1,23 @@
 {
-  "edition": "2026.11.10",
-  "content_sha256": "6209019ff0274f2f7210f31c93ba20012c7b14c91b177341ce9bf0b3d668e9d3",
+  "edition": "2026.11.05",
+  "content_sha256": "f45ec70b1b1104432bd7031b86fadf5f9e7db7d4037b5902adb1ef05b98e1d93",
   "expected_pages": {
     "manual_administracion.pdf": 14,
     "manual_administracion_documental.pdf": 23
   },
   "files": {
-    "classification.png": "830b911b9144accd63282f2afb8bdd57cada525d5c0035aa51825c84d2fbfd08",
-    "documents.png": "f1a16390b199b74a74db1cb4e3bfbf4d8a183ca855c51e693a5941360390cb90",
-    "events.png": "6b717431efbac435df786fa14a59703d7df3da0c915e185df16391ce698c4c3b",
-    "isr.png": "631e1c288ac9a924cd838744ff1fb5440931ba6a6467bdcef4d79c81b3530a43",
-    "manual_administracion.pdf": "2a6f9286ea72d2c2743df6ad63d413838abc8d8424026aba002db9d7f97c0544",
-    "manual_administracion_documental.pdf": "6fbc47c3611951c4e4366e9d4a15de68eef9850e983b78cb3767f7a914f1c233",
-    "permissions.png": "864d2cc39b6c9f0c8c87d19e443281a1d41debeab31c88d86311419abfcdbfb8",
-    "receiver.png": "945144c40446ef33dc0357ce083b6ad89d5aa1295803cc10c8c2fa1e5148307c",
+    "classification.png": "c8a64eeadabddd1838837666f7f06c6ad1ada09b9a0001baad8d3c2d80502b2c",
+    "documents.png": "504496014a1b7a7fa13d90d0ffa24ff1b571cd96a9b3227e1d9fa8c33c242547",
+    "events.png": "4d455610add767c453feea5f28defeafaac34a93d905a89c8454afc321dd1039",
+    "isr.png": "441854fa221834e53c9e79a9fbe9352d8d5941d28cdc30a2b9c6978aa4e8e117",
+    "manual_administracion.pdf": "f4582b23049cd37b7048424716a55bc7bfae2b9f895364edbe556609ecef663b",
+    "manual_administracion_documental.pdf": "8129dff2e9a935d7bcc931a2252aadc7e6e76fdd7d9e23744b31795a199f1607",
+    "permissions.png": "09fde61f5053f793f02ee8c3a8ed7db196e3cb245597a97223efc731795d8955",
+    "receiver.png": "02d619f94855b4048f8997a15841f9f5e30803e209a816a713d2145e056aec78",
     "receiver_capture.png": "2ab71d8d48b8f6be56d9433d9828c197d3380068631796a9431c48c2d2753c15",
-    "sale.png": "ccf958ca001f312c4dfdd63566a5ccb805fd16d2d5087f862f9b433384af3e95",
+    "sale.png": "f72fe541d4768cabac753dbb80375e46a39b8224ebeabb5ef7b9f4473f0eb48c",
     "sale_capture.png": "25457c1ce02e7307448542be8a25f4c4e86d397e11da8bc4f6c053488746340f",
-    "ticket.png": "fd49247ccc723fb76a44d999570fce76240b51350ee39843863149a83180cec4",
-    "workflow.png": "1364759dbf762c1119338a6393f55f6476148a2bae584804f77cafeb2631ed12"
+    "ticket.png": "74a0425274a5596b6e168b0b6bd70d0f89fc905656b9d8db14f149466f72128d",
+    "workflow.png": "d3a52de7ab974f61526652fbcb2c2f92b577b06c0540e105267663840c1c1cfb"
   }
 }
