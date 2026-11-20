@@ -2,7 +2,7 @@
 
 Facturación electrónica de El Salvador desde una PC: emisión y consulta de DTE, contactos, inventario, impresión, correo, compras, declaraciones y anexos.
 
-**Versión de la aplicación: 4.1.3 · Windows de 64 bits**
+**Versión de la aplicación: 4.1.4 · Windows de 64 bits**
 
 [**Descargar la carpeta completa**](https://github.com/miliky/smartDTE_windows/archive/refs/heads/main.zip) · [**Manual ilustrado de instalación, configuración y uso**](Manual-smartDTE-Windows.pdf)
 
@@ -39,12 +39,12 @@ Los permisos de cada tipo de DTE controlan su emisión. **AdminDocDtes**, habili
 
 Desde **Inicio → Punto de venta**, los administradores pueden cambiar el punto de venta de su sesión.
 
-## Contactos en 4.1.3
+## Contactos
 
 - Al guardar un contacto, la aplicación revisa NRC, NIT, DUI y los demás documentos de identificación dentro de la empresa. Si detecta un documento repetido o incompatible, muestra el conflicto. Si solo coincide el nombre, avisa y permite registrar un homónimo.
 - Durante la importación y la facturación, una ficha con identificación compatible se completa con los datos que le faltan. La importación conserva el contenido del DTE original.
 - Para unir dos fichas, selecciónelas en **Contactos** y pulse **Consolidar selección**. Elija cuál conservar, revise los datos que se agregarán y confirme. Si hay dos valores distintos para un campo de contacto, prevalece el de la ficha elegida. Los documentos de identificación en conflicto impiden consolidar.
-- Si una coma en el dominio del correo puede reemplazarse por un punto y el resultado es válido, la aplicación lo corrige automáticamente. El teléfono se guarda con al menos ocho dígitos. El correo y el teléfono del receptor se comprueban antes de firmar un DTE nuevo.
+- Desde la versión 4.1.4, la aplicación reemplaza las comas del correo por puntos tanto antes como después de la arroba, siempre que el resultado sea una dirección válida. El teléfono se guarda con al menos ocho dígitos. El correo y el teléfono del receptor se comprueban antes de firmar un DTE nuevo.
 
 ## Adjuntos del correo
 
@@ -57,7 +57,7 @@ La elección se realiza para esa operación. Cancelar no inicia una descarga ni 
 
 ## Manual y comprobación
 
-El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos en 4.1.3** y **Adjuntos del correo** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
+El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos** y **Adjuntos del correo** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
 
 Desde PowerShell, en la carpeta de la aplicación:
 

@@ -1,9 +1,9 @@
 {
-  "applicationVersion": "4.1.3",
-  "build": "20261120-085951-509079",
-  "sourceCommit": "477d684793923321e5c0b38726d9ce8914642f7f",
+  "applicationVersion": "4.1.4",
+  "build": "20261120-092006-276791",
+  "sourceCommit": "98a47d96f8ec364ee363928332c9f8562b15ac57",
   "date": "2026-11-20",
-  "executableSha256": "e95908a44ab64ad6a92a225790aba762385aee8027beabb4392329029a79c1e6",
+  "executableSha256": "58a45b5b62e1674f7297cce7f7cbf61f29d4fb154c242dcdbb4bf346431796f3",
   "format": "onedir",
   "upx": false,
   "installationCheckPassed": true,
@@ -12,5 +12,5 @@
   "userDatabaseOpened": false,
   "externalServicesOpened": false,
   "manualEdition": "4.1.0",
-  "feature": "Prevención de duplicados, consolidación y validación de correo y teléfono de contactos"
+  "feature": "Corrección de comas antes y después de la arroba en direcciones válidas"
 }
