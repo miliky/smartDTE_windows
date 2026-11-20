@@ -1,16 +1,33 @@
 {
   "applicationVersion": "4.1.4",
-  "build": "20261120-092006-276791",
-  "sourceCommit": "98a47d96f8ec364ee363928332c9f8562b15ac57",
+  "distributionVersion": "4.1.4+support.1",
+  "build": "20261120-112304-250728",
+  "sourceCommit": "2e445a37109c64e252adb77f47a139479517eac3",
+  "sourceRecordedAfterBuild": true,
+  "packagedSourceVerifiedAgainstCommit": true,
   "date": "2026-11-20",
-  "executableSha256": "58a45b5b62e1674f7297cce7f7cbf61f29d4fb154c242dcdbb4bf346431796f3",
+  "executableSha256": "76f4d4fe008c328087621bd764aabda1c7271bfbb806fca22c11c393a5134d07",
   "format": "onedir",
   "upx": false,
   "installationCheckPassed": true,
-  "testsPassed": 446,
-  "testsSkipped": 0,
   "userDatabaseOpened": false,
   "externalServicesOpened": false,
+  "databaseAndNetworkFieldsScope": "Comprobación de instalación en directorio aislado.",
+  "verification": {
+    "focusedTestsPassed": 24,
+    "desktopTestsPassed": 54,
+    "licenseDesktopTestsPassed": 5,
+    "desktopSuitesRunSeparately": true,
+    "publicSupportSessionWithCompiledExe": {
+      "service": "https://smartdte-soporte.dte.company",
+      "syntheticWindows": true,
+      "preConsentObservationSeconds": 3,
+      "preConsentFrames": 0,
+      "onlySelectedWindowObserved": true,
+      "finalizeClosedWebSocket": true,
+      "reconnectRejected": true
+    }
+  },
   "manualEdition": "4.1.0",
-  "feature": "Corrección de comas antes y después de la arroba en direcciones válidas"
+  "feature": "Asistencia visual de solo lectura con autorización para una ventana de smartDTE."
 }

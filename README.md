@@ -2,7 +2,7 @@
 
 Facturación electrónica de El Salvador desde una PC: emisión y consulta de DTE, contactos, inventario, impresión, correo, compras, declaraciones y anexos.
 
-**Versión de la aplicación: 4.1.4 · Windows de 64 bits**
+**Versión de la aplicación: 4.1.4 · Entrega 4.1.4+support.1 · Windows de 64 bits**
 
 [**Descargar la carpeta completa**](https://github.com/miliky/smartDTE_windows/archive/refs/heads/main.zip) · [**Manual ilustrado de instalación, configuración y uso**](Manual-smartDTE-Windows.pdf)
 
@@ -57,7 +57,7 @@ La elección se realiza para esa operación. Cancelar no inicia una descarga ni 
 
 ## Manual y comprobación
 
-El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos** y **Adjuntos del correo** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
+El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos**, **Adjuntos del correo** y **Asistencia visual** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
 
 Desde PowerShell, en la carpeta de la aplicación:
 
@@ -70,6 +70,14 @@ Esta comprobación revisa dependencias y recursos sin abrir la base del usuario.
 Los datos de la comprobación de esta entrega y la huella del EXE se registran en [VERIFICACION.json](VERIFICACION.json).
 
 Las huellas de los archivos distribuidos se encuentran en **SHA256SUMS.txt**. Si Windows bloquea un archivo, comunique al soporte la detección y la huella del archivo para su revisión.
+
+## Asistencia visual
+
+Con smartDTE abierto y la sesión iniciada, pulse **Solicitar asistencia** en la cabecera. Comparta el código temporal con el técnico que atiende su caso. Cuando aparezca su identidad, elija la ventana y pulse **Autorizar y compartir**.
+
+La asistencia es de solo lectura y comparte una ventana por sesión. Puede elegir la ventana principal, Configuración, Licencias o el visor de un DTE. En el visor puede revisar **Respuesta de MH** y elegir **JSON completo** cuando necesite mostrar el documento. Para mostrar otra ventana, finalice la sesión y solicite un código nuevo.
+
+Pulse **Finalizar asistencia** en la cabecera o **Finalizar** en la ventana auxiliar para detener la transmisión.
 
 ## Soporte
 
