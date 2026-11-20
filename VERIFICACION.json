@@ -1,22 +1,16 @@
 {
-  "applicationVersion": "4.1.2",
-  "build": "20261110-103251-127725",
-  "sourceCommit": "44025bc1866205c1cde873508044c8e1d54e289a",
-  "date": "2026-11-10",
-  "executableSha256": "94e70d1f0ac6a2804937f319b07938c05ae9d20c4e090013395f346511014a8f",
+  "applicationVersion": "4.1.3",
+  "build": "20261120-085951-509079",
+  "sourceCommit": "477d684793923321e5c0b38726d9ce8914642f7f",
+  "date": "2026-11-20",
+  "executableSha256": "e95908a44ab64ad6a92a225790aba762385aee8027beabb4392329029a79c1e6",
   "format": "onedir",
   "upx": false,
   "installationCheckPassed": true,
-  "focusedTestsPassed": 58,
+  "testsPassed": 446,
+  "testsSkipped": 0,
   "userDatabaseOpened": false,
   "externalServicesOpened": false,
-  "defender": {
-    "result": "no threats found",
-    "signatureVersion": "1.463.227.0",
-    "signatureUpdated": "2026-11-10T03:43:07.0000000-06:00",
-    "realTimeProtectionEnabled": true,
-    "scope": "complete fresh runtime folder"
-  },
   "manualEdition": "4.1.0",
-  "feature": "Descargar todos los adjuntos de la carpeta seleccionada, sin filtro de fechas"
+  "feature": "Prevención de duplicados, consolidación y validación de correo y teléfono de contactos"
 }

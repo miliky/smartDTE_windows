@@ -1,6 +1,6 @@
 {
-  "edition": "2026.11.05",
-  "content_sha256": "f45ec70b1b1104432bd7031b86fadf5f9e7db7d4037b5902adb1ef05b98e1d93",
+  "edition": "2026.11.20",
+  "content_sha256": "c53d43f72ce943bacc6cf9b0116f9071598035dbdd6516c7ef604f624ac9f06f",
   "expected_pages": {
     "manual_administracion.pdf": 14,
     "manual_administracion_documental.pdf": 23
@@ -10,8 +10,8 @@
     "documents.png": "504496014a1b7a7fa13d90d0ffa24ff1b571cd96a9b3227e1d9fa8c33c242547",
     "events.png": "4d455610add767c453feea5f28defeafaac34a93d905a89c8454afc321dd1039",
     "isr.png": "441854fa221834e53c9e79a9fbe9352d8d5941d28cdc30a2b9c6978aa4e8e117",
-    "manual_administracion.pdf": "f4582b23049cd37b7048424716a55bc7bfae2b9f895364edbe556609ecef663b",
-    "manual_administracion_documental.pdf": "8129dff2e9a935d7bcc931a2252aadc7e6e76fdd7d9e23744b31795a199f1607",
+    "manual_administracion.pdf": "dedb0c47c5b4ba0af49c38923bc974bfa32fb81c662bebc0bf4ea645b3a95757",
+    "manual_administracion_documental.pdf": "6766cbacff97b8264dab7c5a5d88065eae212b95126c66a9246f721bc548775a",
     "permissions.png": "09fde61f5053f793f02ee8c3a8ed7db196e3cb245597a97223efc731795d8955",
     "receiver.png": "02d619f94855b4048f8997a15841f9f5e30803e209a816a713d2145e056aec78",
     "receiver_capture.png": "2ab71d8d48b8f6be56d9433d9828c197d3380068631796a9431c48c2d2753c15",
