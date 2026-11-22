@@ -2,7 +2,7 @@
 
 Facturación electrónica de El Salvador desde una PC: emisión y consulta de DTE, contactos, inventario, impresión, correo, compras, declaraciones y anexos.
 
-**Versión de la aplicación: 4.1.4 · Entrega 4.1.4+support.1 · Windows de 64 bits**
+**smartDTE 4.1.5 · Windows de 64 bits**
 
 [**Descargar la carpeta completa**](https://github.com/miliky/smartDTE_windows/archive/refs/heads/main.zip) · [**Manual ilustrado de instalación, configuración y uso**](Manual-smartDTE-Windows.pdf)
 
@@ -31,11 +31,11 @@ Descargar o actualizar los archivos del programa no requiere publicar su configu
 - Firma y transmisión mediante los servicios configurados; consulta y conservación de respuestas y sellos de MH.
 - **Documentos → Consulta → Crear nuevo DTE** desde un único documento propio de tipo factura **01**, crédito fiscal **03**, sujeto excluido **14** o exportación **11**. Abre otro del mismo tipo para revisar; conserva el original y genera nuevos datos de emisión. En producción **01**, el original debe ser de producción; en pruebas **00**, admite originales de ambos ambientes.
 - Inventario, contactos e importación revisable de líneas Excel/CSV.
-- Historial, importación de DTE de compras, adjuntos de Outlook, compras físicas y constancias ISR.
+- Historial, importación de DTE de compras, adjuntos de Outlook clásico o Gmail, compras físicas y constancias ISR.
 - PDF carta, tickets, declaraciones, libros, anexos y ventas por períodos.
 - Administración de empresas, puntos de venta, usuarios, permisos, licencias y ayuda sin conexión.
 
-Los permisos de cada tipo de DTE controlan su emisión. **AdminDocDtes**, habilitado en usuario y licencia, permite la administración documental y los reportes correspondientes. El correo por Outlook requiere una instalación compatible con automatización COM.
+Los permisos de cada tipo de DTE controlan su emisión. **AdminDocDtes**, habilitado en usuario y licencia, permite la administración documental y los reportes correspondientes.
 
 Desde **Inicio → Punto de venta**, los administradores pueden cambiar el punto de venta de su sesión.
 
@@ -46,9 +46,23 @@ Desde **Inicio → Punto de venta**, los administradores pueden cambiar el punto
 - Para unir dos fichas, selecciónelas en **Contactos** y pulse **Consolidar selección**. Elija cuál conservar, revise los datos que se agregarán y confirme. Si hay dos valores distintos para un campo de contacto, prevalece el de la ficha elegida. Los documentos de identificación en conflicto impiden consolidar.
 - Desde la versión 4.1.4, la aplicación reemplaza las comas del correo por puntos tanto antes como después de la arroba, siempre que el resultado sea una dirección válida. El teléfono se guarda con al menos ocho dígitos. El correo y el teléfono del receptor se comprueban antes de firmar un DTE nuevo.
 
+## Envío de correo
+
+1. En **Configuración → Envío de correo**, elija **Outlook clásico** o **Gmail**. Outlook debe admitir la automatización COM y usa la cuenta predeterminada del perfil de Windows si deja vacía la dirección.
+2. Para **Gmail**, escriba la dirección completa y elija uno de estos métodos.
+   - **Contraseña de aplicación**. Active la verificación en dos pasos, genere la clave y pulse **Guardar solo la contraseña de aplicación**. [Contraseñas de aplicación de Google](https://myaccount.google.com/apppasswords)
+   - **OAuth (Google)**. Pulse **Autorizar con Google**, seleccione el JSON de un cliente OAuth de tipo **Aplicación de escritorio** y autorice en el navegador la misma cuenta. [Clientes OAuth de Google Cloud](https://console.cloud.google.com/auth/clients)
+3. Pulse **Guardar cambios** y confirme para aplicar el proveedor. En **Configuración → Descarga de adjuntos**, puede activar **Usar la misma cuenta que para el envío** o elegir otro proveedor y dirección.
+
+**Enviar documentos automáticamente** controla el correo que se genera al emitir. El envío automático exige que Hacienda haya procesado el DTE y que el documento tenga sello de recepción propio.
+
+En **Documentos → Archivos y correo → Adjuntar al correo**, smartDTE comprueba el sello y muestra la cuenta seleccionada. Outlook clásico abre un borrador. Gmail muestra una vista previa en smartDTE y espera que usted confirme el envío.
+
+**Enviar selección por correo** solicita confirmación y envía un correo por cada DTE seleccionado con sello y destinatario. El informe queda en **Documentos/Correo**. Si hay una interrupción, revise el informe y el buzón antes de repetir el envío.
+
 ## Adjuntos del correo
 
-1. Abra **Adjuntos del correo** y revise el nombre de la carpeta de Outlook. Si queda vacío se utiliza la bandeja de entrada predeterminada.
+1. Abra **Adjuntos del correo** y revise la carpeta de Outlook o la etiqueta de Gmail. Si deja el campo vacío, se utiliza la bandeja de entrada.
 2. Elija **Por fechas** para utilizar Desde y Hasta, ambos incluidos, o **Descargar todos** para revisar todos los correos de esa carpeta, incluidos los históricos.
 3. Pulse **Descargar e importar**. En el modo completo los calendarios y atajos de fecha quedan deshabilitados; al volver a Por fechas se conserva el rango capturado.
 4. Revise los archivos y **resultado.txt** en la carpeta local de descarga. Se conservan los adjuntos de todas las empresas; la importación aplica los permisos y las reglas de la empresa activa.
@@ -57,7 +71,7 @@ La elección se realiza para esa operación. Cancelar no inicia una descarga ni 
 
 ## Manual y comprobación
 
-El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos**, **Adjuntos del correo** y **Asistencia visual** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
+El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos**, **Envío de correo**, **Adjuntos del correo** y **Asistencia visual** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
 
 Desde PowerShell, en la carpeta de la aplicación:
 
