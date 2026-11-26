@@ -2,7 +2,7 @@
 
 Facturación electrónica de El Salvador desde una PC: emisión y consulta de DTE, contactos, inventario, impresión, correo, compras, declaraciones y anexos.
 
-**smartDTE 4.1.5 · Windows de 64 bits**
+**smartDTE 4.1.6 · Windows de 64 bits**
 
 [**Descargar la carpeta completa**](https://github.com/miliky/smartDTE_windows/archive/refs/heads/main.zip) · [**Manual ilustrado de instalación, configuración y uso**](Manual-smartDTE-Windows.pdf)
 
@@ -46,6 +46,12 @@ Desde **Inicio → Punto de venta**, los administradores pueden cambiar el punto
 - Para unir dos fichas, selecciónelas en **Contactos** y pulse **Consolidar selección**. Elija cuál conservar, revise los datos que se agregarán y confirme. Si hay dos valores distintos para un campo de contacto, prevalece el de la ficha elegida. Los documentos de identificación en conflicto impiden consolidar.
 - Desde la versión 4.1.4, la aplicación reemplaza las comas del correo por puntos tanto antes como después de la arroba, siempre que el resultado sea una dirección válida. El teléfono se guarda con al menos ocho dígitos. El correo y el teléfono del receptor se comprueban antes de firmar un DTE nuevo.
 
+## Contingencias
+
+- Si la emisión se interrumpe antes del envío a Hacienda, elija **Guardar pendiente** o **Activar contingencia**. Indique una descripción solo para el motivo **5 — Otro**. Los DTE heredan el motivo del modo activo.
+- En **Documentos → Consulta → Historial fiscal**, seleccione varios registros y pulse **Recuperar / consultar**. Los preparados antiguos afectados requieren confirmar el motivo antes de firmar.
+- En **Documentos → Acciones fiscales → Transmitir contingencias**, elija los pendientes seleccionados o todos los del punto de venta activo. SmartDTE agrupa por motivo y descripción, calcula las fechas del evento y transmite los DTE cuando el evento recibe sello.
+
 ## Envío de correo
 
 1. En **Configuración → Envío de correo**, elija **Outlook clásico** o **Gmail**. Outlook debe admitir la automatización COM y usa la cuenta predeterminada del perfil de Windows si deja vacía la dirección.
@@ -71,7 +77,7 @@ La elección se realiza para esa operación. Cancelar no inicia una descarga ni 
 
 ## Manual y comprobación
 
-El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos**, **Envío de correo**, **Adjuntos del correo** y **Asistencia visual** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
+El manual ilustrado corresponde a la edición **4.1.0**. Para los cambios posteriores, consulte **Contactos**, **Contingencias**, **Envío de correo**, **Adjuntos del correo** y **Asistencia visual** en esta página. [Manual ilustrado](Manual-smartDTE-Windows.pdf)
 
 Desde PowerShell, en la carpeta de la aplicación:
 
