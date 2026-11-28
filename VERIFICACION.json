@@ -1,19 +1,19 @@
 {
-  "applicationVersion": "4.1.6",
-  "distributionVersion": "4.1.6",
-  "build": "20261125-180423-583830",
-  "sourceCommit": "17c41e2d05328cc6d8e14e4b80a25fde1c832c2f",
-  "date": "2026-11-25",
-  "executableSha256": "b25617229700f67dea10041edf95552a8fb978b1a518b6d954e6f2ef6b1f06ff",
+  "applicationVersion": "4.1.7",
+  "distributionVersion": "4.1.7",
+  "build": "20261127-220546-864514",
+  "sourceCommit": "1a9d82b70bbeaa62497c23e6e8c719a3beaaf2ac",
+  "date": "2026-11-27",
+  "executableSha256": "3598286cef5fa9620237b60b920dd189454ace51f41927211f50bd29f5c57d2c",
   "format": "onedir",
   "upx": false,
   "installationCheckPassed": true,
-  "testsPassed": 513,
+  "testsPassed": 515,
   "testsSkipped": 0,
   "desktopSuiteEnabled": true,
   "userDatabaseOpened": false,
   "externalServicesOpened": false,
   "databaseAndNetworkFieldsScope": "Verificación de instalación en directorio aislado.",
   "manualEdition": "4.1.0",
-  "feature": "Emisión, recuperación y transmisión de contingencias por lote con selección de pendientes y fechas automáticas."
+  "feature": "Corrección de nombres al guardar adjuntos y detalle de importación con facturas de consumidor pendientes de revisión."
 }

@@ -2,7 +2,7 @@
 
 Facturación electrónica de El Salvador desde una PC: emisión y consulta de DTE, contactos, inventario, impresión, correo, compras, declaraciones y anexos.
 
-**smartDTE 4.1.6 · Windows de 64 bits**
+**smartDTE 4.1.7 · Windows de 64 bits**
 
 [**Descargar la carpeta completa**](https://github.com/miliky/smartDTE_windows/archive/refs/heads/main.zip) · [**Manual ilustrado de instalación, configuración y uso**](Manual-smartDTE-Windows.pdf)
 
@@ -71,7 +71,7 @@ En **Documentos → Archivos y correo → Adjuntar al correo**, smartDTE comprue
 1. Abra **Adjuntos del correo** y revise la carpeta de Outlook o la etiqueta de Gmail. Si deja el campo vacío, se utiliza la bandeja de entrada.
 2. Elija **Por fechas** para utilizar Desde y Hasta, ambos incluidos, o **Descargar todos** para revisar todos los correos de esa carpeta, incluidos los históricos.
 3. Pulse **Descargar e importar**. En el modo completo los calendarios y atajos de fecha quedan deshabilitados; al volver a Por fechas se conserva el rango capturado.
-4. Revise los archivos y **resultado.txt** en la carpeta local de descarga. Se conservan los adjuntos de todas las empresas; la importación aplica los permisos y las reglas de la empresa activa.
+4. Pulse **Ver detalle** para localizar adjuntos omitidos, documentos de otra empresa y facturas de consumidor pendientes de revisión. Seleccione un archivo y abra el JSON o su carpeta. El informe **resultado.txt** queda en la carpeta local de descarga. Se conservan los adjuntos de todas las empresas; la importación aplica los permisos y las reglas de la empresa activa.
 
 La elección se realiza para esa operación. Cancelar no inicia una descarga ni cambia las preferencias guardadas.
 
